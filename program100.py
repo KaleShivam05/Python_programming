@@ -1,10 +1,10 @@
-///////////////////////////////////////////////////////////////////////
-//
-//  Class :       Singly_Circular_linkedList
-//  Description:  Generic implementation of Singly circular linked list
-//  Author :      Shivam Rajendra kale
-//
-////////////////////////////////////////////////////////////////////////
+##########################################################################
+#
+#  Class :       SinglyLL
+#  Description:  Generic implementation of Singly circular linked list
+#  Author :      Shivam Rajendra kale
+#
+##########################################################################
 
 class Node:
     def __init__(self,No):
