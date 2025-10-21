@@ -20,7 +20,7 @@ class SinglyLL:
       newn.next = self.First
       self.First = newn
 
-    self.iCount = self.iCount + 1
+    self.iCount = self.iCount + 1 # use to add entry 
 
 ###########################################################################
   
@@ -37,7 +37,7 @@ class SinglyLL:
 
       temp.next = newn
 
-    self.iCount = self.iCount + 1
+    self.iCount = self.iCount + 1 # use to add entry
 
 ###########################################################################
 
@@ -64,7 +64,7 @@ class SinglyLL:
       self.First = self.First.next
       del temp
 
-      self.iCount = self.iCount-1
+      self.iCount = self.iCount-1 #use to remove entry
 
 ###########################################################################
 
